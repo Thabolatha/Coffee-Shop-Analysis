@@ -123,18 +123,19 @@ The analysis was presented using Excel dashboards, including:
 
 ---
 
-## 📂 Project Structure
-
-```
-bright-coffee-analysis/
+## 📂 bright-coffee-analysis/
 │── sql/
 │   └── coffee_analysis.sql
 │
-│── reports/
-│   └── coffee_report.pdf
-│
 │── dashboard/
 │   └── excel_dashboard.xlsx
+│
+│── presentation/
+│   └── final_presentation.pdf
+│
+│── planning/
+│   ├── miro_board.pdf
+│   └── gantt_chart.pdf
 │
 │── README.md
 ```
